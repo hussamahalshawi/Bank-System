@@ -8,7 +8,7 @@ Operations that are to be allowed:
 * deposit: enter an amount into an account
 * withdrawal: pull some amount from an account
 * check balance: check all account details
-* transfer: move amounts between accounts
+* transfer: move amounts between accounts\
 An account should have the following:
 
 * Name
